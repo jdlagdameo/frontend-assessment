@@ -1,0 +1,2 @@
+The 'b' + 'a' + + 'a' + 'a' will output "baNaNa". The "+" and "a" try to add a character it returns NaN (Not a Number).
+And last, the string "baNaNa" is converted to lowercase using the toLowerCase() method resulting to "banana".
